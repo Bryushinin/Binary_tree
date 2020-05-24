@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590333430 source:c:\users\79194\desktop\ \Коллегия\Инфа\binomial tree\bintree\bintree_source.cpp
+	"bintree_header.h"
+
+1590333943 c:\users\79194\desktop\ \Коллегия\Инфа\binomial tree\bintree\bintree_header.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+
+1590332425 source:c:\users\79194\desktop\ \Коллегия\Инфа\binomial tree\bintree\main.cpp
+	"bintree_header.h"
+
